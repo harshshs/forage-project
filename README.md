@@ -1,1 +1,2 @@
 # forage-project
+this is a data analysis project in which a growing social media platform is finding difficulties to grow more bigger due to huge no of clustered data . so this project finds meaningful insights from that unorganised data by doing data cleaning , modelling and data visualization and then presented a report on that which significantly helped them to tackle the problem and further this report also helped them to file their first IPO
